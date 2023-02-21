@@ -6,8 +6,8 @@ Este es un programa simple para convertir entre diferentes monedas. El programa 
 Uso
 Para utilizar el programa, simplemente siga estos pasos:
 
-Ejecute el archivo CurrencyConverterGUI.java en su entorno de desarrollo.
-Seleccione la moneda de origen y la moneda de destino en los menús desplegables.
+1. Ejecute el archivo CurrencyConverterGUI.java en su entorno de desarrollo.
+2. Seleccione la moneda de origen y la moneda de destino en los menús desplegables.
 Ingrese la cantidad de la moneda de origen que desea convertir en el campo "Cantidad".
 Haga clic en el botón "Convertir" para ver la cantidad equivalente en la moneda de destino.
 Funcionalidades
