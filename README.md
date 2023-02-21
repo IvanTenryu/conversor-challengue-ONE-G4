@@ -25,9 +25,10 @@ El programa requiere lo siguiente:
 ### Contribuciones
 Si deseas contribuir a este proyecto, puedes hacer lo siguiente:
 
-Crea un fork de este repositorio
-Clona tu fork en tu máquina local
-Haz tus cambios en una rama aparte
-Envía una solicitud de extracción (pull request) con tus cambios
-Licencia
+- Crea un fork de este repositorio
+- Clona tu fork en tu máquina local
+- Haz tus cambios en una rama aparte
+- Envía una solicitud de extracción (pull request) con tus cambios
+
+### Licencia
 Este proyecto está bajo la Licencia MIT. Consulta el archivo LICENSE para más detalles.
