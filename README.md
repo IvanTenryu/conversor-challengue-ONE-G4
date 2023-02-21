@@ -11,7 +11,7 @@ Para utilizar el programa, simplemente siga estos pasos:
 4. Haga clic en el botón "Convertir" para ver la cantidad equivalente en la moneda de destino.
 
 ### Funcionalidades
-* El programa tiene las siguientes funcionalidades:
+El programa tiene las siguientes funcionalidades:
 
 1. Conversión entre cinco monedas diferentes: USD, EUR, GBP, JPY y KRW.
 2. Actualización automática de las tasas de cambio en vivo.
